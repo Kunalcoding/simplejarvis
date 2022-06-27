@@ -1,4 +1,4 @@
-    def get_operator_fn(op):
+                def get_operator_fn(op):
                     return {
                         "+": operator.add,
                         "-": operator.sub,
